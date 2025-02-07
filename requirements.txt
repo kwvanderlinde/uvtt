@@ -1,0 +1,17 @@
+## The following requirements were added by pip freeze:
+attrs==25.1.0
+certifi==2025.1.31
+charset-normalizer==3.4.1
+check-jsonschema==0.31.1
+click==8.1.8
+idna==3.10
+jsonschema==4.23.0
+jsonschema-specifications==2024.10.1
+referencing==0.36.2
+regress==2024.11.1
+requests==2.32.3
+rpds-py==0.22.3
+ruamel.yaml==0.18.10
+ruamel.yaml.clib==0.2.12
+typing_extensions==4.12.2
+urllib3==2.3.0
